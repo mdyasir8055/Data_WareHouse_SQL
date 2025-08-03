@@ -59,3 +59,5 @@ begin
         tablock
     );
 end
+
+exec bronze.load_bronze;
